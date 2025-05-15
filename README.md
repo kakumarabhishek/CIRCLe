@@ -75,3 +75,6 @@ python main.py --base mobilenetv3l
 python main.py --base mobilenetv2
 ```
 
+# Metrics
+
+[`nar.py`](metrics/nar.py) contains the implementation for the proposed Normalized Accuracy Range (NAR) metric.
